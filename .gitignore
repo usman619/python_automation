@@ -5,3 +5,7 @@ project_2/news-headlines-script.spec
 project_3/build/
 project_3/dist/
 project_3/automate-excel.spec
+
+env
+
+project_4/PyWhatKit_DB.txt

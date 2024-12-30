@@ -44,3 +44,7 @@ pyinstaller --onefile --add-binary "/usr/lib/x86_64-linux-gnu/libcrypto.so.3:." 
 ```
 
 ## Project 4: Whatsapp Automation
+- If you are getting "DisplayConnectionError" error using the command below:
+```bash
+xhost +
+```
